@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "a",
+    "file": "media\\a.wav"
+  },
+  {
+    "id": "b",
+    "file": "media\\b.wav"
+  },
+  {
+    "id": "c",
+    "file": "media\\c.wav"
+  }
+]
