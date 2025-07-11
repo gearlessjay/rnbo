@@ -1,5 +1,5 @@
 async function setup() {
-    const patchExportURL = "https://raw.githubusercontent.com/gearlessjay/rnbo/refs/heads/main/patch.export.json?token=GHSAT0AAAAAADHFHHMILJ26QWULC2OCLHZ62DQRQ7Q";
+    const patchExportURL = "https://raw.githubusercontent.com/gearlessjay/rnbo/refs/heads/main/patch.export.json";
 
     // Create AudioContext
     const WAContext = window.AudioContext || window.webkitAudioContext;
